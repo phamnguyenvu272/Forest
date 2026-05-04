@@ -1,0 +1,18 @@
+# Dependencies
+frontend/node_modules/
+
+# Angular
+frontend/.angular/
+frontend/dist/
+
+# Java / Maven
+backend/target/
+*.class
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+
+# Local Maven cache (if used in-repo)
+.m2/
